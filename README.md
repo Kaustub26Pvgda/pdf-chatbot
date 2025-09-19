@@ -2,6 +2,8 @@
 
 A full-stack intelligent document chatbot that allows users to upload various document formats (PDF, Word, Excel, Images) and interact with them through natural language questions powered by Google's Gemini AI.
 
+I use this when I have an exam the next day and I need to quickly summarize pdfs for 5 mark questions.
+
 ## ✨ Features
 
 - **Multi-format Support**: Upload and process PDF, DOCX, XLSX, and image files
